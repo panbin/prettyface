@@ -1,0 +1,7 @@
+mkl-random==1.0.1
+mkl-fft==1.0.0
+setuptools==39.1.0
+numpy==1.16.2
+keras==2.2.0
+opencv-python
+pillow
